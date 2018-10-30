@@ -1,1 +1,1 @@
-TechNet article
+TechNet article https://social.technet.microsoft.com/wiki/contents/articles/52091.vb-netsql-server-dynamic-where-conditions.aspx
