@@ -3,6 +3,7 @@
 Namespace Classes
     Public Class DataOperations
         Inherits BaseSqlServerConnection
+
         ''' <summary>
         ''' Get all DateTime columns
         ''' </summary>

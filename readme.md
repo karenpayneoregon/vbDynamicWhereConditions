@@ -1,1 +1,1 @@
-TechNet article https://social.technet.microsoft.com/wiki/contents/articles/51874.sql-server-dynamic-c-dynamic-where-in-conditions-in-c-for-sql-server.aspx
+TechNet article https://social.technet.microsoft.com/wiki/contents/articles/52091.vb-net-dynamic-filter-where-conditions-when-working-with-sql-server-queries.aspx

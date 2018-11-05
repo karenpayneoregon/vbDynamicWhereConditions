@@ -51,7 +51,6 @@ Public Class StringsInForm
     ''' <param name="sender"></param>
     ''' <param name="e"></param>
     Private Sub cmdCreateWhere_Click(sender As Object, e As EventArgs) Handles cmdCreateWhere.Click
-
         MainDataGridView.DataSource = Nothing
 
         Dim contacts = $"({String.Join(",", contactsCheckedListBox.Items.Cast(Of DataItem).
